@@ -1,0 +1,11 @@
+<h2>Index of pages</h2>
+
+{?pages}
+  <ul>
+  {#pages}
+    <li><a href="{baseURL}/{value.slug}">{value.title}</a></li>
+  {/pages}
+    </ul>
+  {:else}
+  <p>No pages.</p>
+{/pages}
