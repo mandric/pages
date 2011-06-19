@@ -1,6 +1,20 @@
-Start up a CouchDB 1.1 instance and install Kanso (dev branch) then run:
+1) Start up a CouchDB 1.1 instance 
 
-  kanso push pages
-  kanso pushadmin pages
+2) Install Kanso (required node) dev branch:
 
-Then create pages with the built-in Kanso admin.
+    git clone git://github.com/caolan/kanso.git 
+    cd kanso 
+    git checkout -b dev origin/dev 
+    git submodule init 
+    git submodule update 
+    bin/kanso -v
+    0.0.7
+
+3) Unzip pages package.
+
+4) Push the pages and admin apps to your couch:
+
+    kanso push pages
+    kanso pushadmin pages
+
+5) Create pages with the built-in Kanso admin and make your site.
