@@ -1,6 +1,6 @@
 1) Start up a CouchDB 1.1 instance 
 
-2) Install Kanso (required node) dev branch:
+2) Install Kanso (requires node) dev branch:
 
     git clone git://github.com/caolan/kanso.git 
     cd kanso 
