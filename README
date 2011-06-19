@@ -1,0 +1,6 @@
+Start up a CouchDB 1.1 instance and install Kanso (dev branch) then run:
+
+  kanso push pages
+  kanso pushadmin pages
+
+Then create pages with the built-in Kanso admin.
