@@ -1,3 +1,6 @@
+Pages is a CouchApp that I used for learning Kanso and CouchDB. It might also
+be useful for building a simple website.
+
 1) Start up a CouchDB >= 1.1 instance.  If your OS doesn't support a package,
 try the Couchbase preview releases:
 
