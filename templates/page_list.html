@@ -2,10 +2,10 @@
 
 {?pages}
   <ul>
-  {#pages}
-    <li><a href="{baseURL}/{value.slug}">{value.title}</a></li>
-  {/pages}
-    </ul>
-  {:else}
+	{#pages}
+	    <li><a href="{baseURL}/page/{value.slug}">{value.title}</a></li>
+  	{/pages}
+  </ul>
+ {:else}
   <p>No pages.</p>
 {/pages}
