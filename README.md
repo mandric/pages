@@ -3,15 +3,8 @@
 Pages is a CouchApp that I used for learning Kanso and CouchDB. It might also
 be useful for building a simple website. 
 
-This code is *not* Kanso >=1.0 compatible yet as it relies on the Kanso Admin
-which has not been ported over yet, AFAIK.
-
-## CouchDB
-
-Start up a CouchDB >= 1.1 instance.  If your OS doesn't support a package, try
-the Couchbase preview releases:
-
-http://files.couchbase.com/developer-previews/couchbase-single-server-2.0.0-dev-preview/
+*Note*: this project relies on the Kanso Admin which has not been ported to
+Kanso 1.0 yet, as of this writing.
 
 ## Install
 
