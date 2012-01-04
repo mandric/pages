@@ -5,7 +5,7 @@ be useful for building a simple website.
 
 *Note*: this project relies on the [Kanso
 Admin](https://github.com/kanso/admin) which has not been ported to Kanso 1.0
-yet, as of this writing.
+yet, as of this writing, effectively making this project broken.
 
 ## Install 
 
