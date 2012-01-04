@@ -7,16 +7,16 @@ be useful for building a simple website.
 Admin](https://github.com/kanso/admin) which has not been ported to Kanso 1.0
 yet, as of this writing.
 
-## Install Pages
+## Install 
 
 This app uses the Kanso admin to edit your data.  Push the pages and admin apps
 to your couch once you cloned or unpacked it:
 
 ```
+git clone https://github.com/mandric/pages
+cd pages
 kanso push pages
 ```
-
-## Install Admin
 
 ```
 git clone https://github.com/kanso/admin
