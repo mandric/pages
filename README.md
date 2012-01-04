@@ -1,7 +1,10 @@
 # Kanso Pages
 
 Pages is a CouchApp that I used for learning Kanso and CouchDB. It might also
-be useful for building a simple website.
+be useful for building a simple website. 
+
+This code is *not* Kanso >=1.0 compatible yet as it relies on the Kanso Admin
+which has not been ported over yet, AFAIK.
 
 ## CouchDB
 
@@ -17,7 +20,7 @@ to your couch once you cloned or unpacked it:
 
 ```
 kanso push pages
-kanso pushadmin pages
+kanso pushadmin pages 
 ```
 
 ## Usage
