@@ -1,11 +1,9 @@
 # Kanso Pages
 
 Pages is a CouchApp that I used for learning Kanso and CouchDB. It might also
-be useful for building a simple website. 
-
-*Note*: this project relies on the [Kanso
-Admin](https://github.com/kanso/admin) which has not been ported to Kanso 1.0
-yet, as of this writing, effectively making this project broken.
+be useful for building a simple website.  *Note*: this project relies on a fork
+of the [Kanso Admin](https://github.com/kanso/admin) which may have some bugs
+in it while it gets ported to Kanso 1.0.
 
 ## Install 
 
@@ -19,7 +17,7 @@ kanso push pages
 ```
 
 ```
-git clone https://github.com/kanso/admin
+git clone https://github.com/mandric/admin
 cd admin
 kanso push pages 
 ```
