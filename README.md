@@ -24,4 +24,4 @@ kanso push pages
 
 ## Usage
 
-Create pages with the built-in Kanso admin and make your site.
+Manage your pages with the Kanso admin.
