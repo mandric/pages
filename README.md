@@ -8,7 +8,7 @@ be useful for building a simple website.
 Start up a CouchDB >= 1.1 instance.  If your OS doesn't support a package, try
 the Couchbase preview releases:
 
-    http://files.couchbase.com/developer-previews/couchbase-single-server-2.0.0-dev-preview/
+http://files.couchbase.com/developer-previews/couchbase-single-server-2.0.0-dev-preview/
 
 ## Install
 
