@@ -3,7 +3,7 @@
 Pages is a CouchApp that I used for learning Kanso and CouchDB. It might also
 be useful for building a simple website.  *Note*: this project relies on a fork
 of the [Kanso Admin](https://github.com/kanso/admin) which may have some bugs
-in it while it gets ported to Kanso 1.0.
+in it while it gets ported to Kanso 0.1.0.
 
 ## Install 
 
