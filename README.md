@@ -1,7 +1,12 @@
 # Kanso Pages
 
-Pages is a CouchApp that I used for learning Kanso and CouchDB. It might also
-be useful for building a simple website.  
+Pages is a CouchApp that I used for learning [Kanso](http://kan.so) and
+CouchDB. It might also be useful for building a simple website.  
+
+
+## Requirements
+
+Install [Kanso](http://kan.so)
 
 ## Install 
 
